@@ -8,7 +8,7 @@ public class App {
         v[2]=4.0;
         v[3]=5.0;
         v[4]=6.0;
-        for (int i=0; i<n; i=i+1){
+        for (int i=0; i<n; i++){
             u[i]=v[i]*(i+1);
 
         }
